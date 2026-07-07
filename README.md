@@ -17,7 +17,7 @@ I'm interested in software development, web applications, Android development, r
 | [ATMOS](https://github.com/ALANGMupv/Atmos) | Environmental monitoring platform with Android app, REST API, web dashboard and sensor integration. | Android · JavaScript · MySQL · Arduino |
 | [A1AN](https://github.com/ALANGMupv/a1an) | Assistive robotics prototype with ROS 2, autonomous navigation, computer vision and web control. | ROS 2 · Python · Gazebo · OpenCV |
 | [Mylo](https://github.com/exby04/Mylo-The-Firefly-Scout) | Unity adventure game with light management, enemies, interactive chests and escape mechanics. | Unity · C# · 3D Modeling |
-| AuraCuna | Smart IoT cradle with Android app for real-time monitoring and remote control. | Android · Java · Firebase · Arduino |
+| [AuraCuna](https://github.com/exby04/Aura) | Smart IoT cradle with Android app for real-time monitoring and remote control. | Android · Java · Firebase · Arduino |
 
 ## Currently
 
